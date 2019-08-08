@@ -1,0 +1,11 @@
+{
+    "name": "ds1307",
+    "author": "eon",
+    "type": "library",
+    "version": "1.0.0",
+    "dependencies": ["dummy"],
+    "targetPlatforms": [
+        "stm32l0",
+        "stm32g0"
+    ]
+}
