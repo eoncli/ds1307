@@ -3,7 +3,7 @@
     "author": "eon",
     "type": "library",
     "version": "1.0.0",
-    "dependencies": ["dummy"],
+    "dependencies": [],
     "targetPlatforms": [
         "stm32l0",
         "stm32g0"
