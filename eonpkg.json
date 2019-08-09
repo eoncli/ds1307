@@ -1,6 +1,7 @@
 {
     "name": "ds1307",
     "author": "eon",
+    "url": "official",
     "type": "library",
     "version": "1.0.0",
     "dependencies": [],
