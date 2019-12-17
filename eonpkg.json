@@ -1,12 +1,7 @@
 {
-    "name": "ds1307",
-    "author": "eon",
-    "url": "official",
-    "type": "library",
-    "version": "1.0.0",
-    "dependencies": [],
-    "targetPlatforms": [
-        "stm32l0",
-        "stm32g0"
-    ]
+  "name": "ds1307",
+  "author": "EonTeam",
+  "type": "library",
+  "dependencies": [],
+  "targetPlatforms": ["eoncli/stm32l0", "eoncli/stm32g0"]
 }
